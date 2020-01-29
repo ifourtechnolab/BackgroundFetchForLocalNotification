@@ -1,0 +1,7 @@
+{
+  "name": "nyaoo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
